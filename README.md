@@ -1,3 +1,3 @@
-# esencia-nemium
+# esencial-nemium
 
-Proyecto nemium curso esencia html y css
+Proyecto nemium curso esencial html y css
