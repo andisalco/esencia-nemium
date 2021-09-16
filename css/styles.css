@@ -1,4 +1,43 @@
+@font-face {
+  font-family: Montserrat;
+  src: url("../fonts/Montserrat-Regular.ttf");
+}
+
 body {
   background: #232946;
+  color: #b8c1ec;
+}
+
+header {
+  font: Montserrat;
+  font-size: 14px;
   color: #fffffe;
+}
+
+header li,
+a {
+  font: Montserrat;
+  font-size: 14px;
+  color: #b8c1ec;
+  text-decoration: none;
+}
+header a:hover {
+  color: #232946;
+}
+
+a {
+  background: #232946;
+  color: #b8c1ec;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 32px;
 }
